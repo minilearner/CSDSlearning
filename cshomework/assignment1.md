@@ -2,7 +2,7 @@
 
 Updated 0940 GMT+8 Feb 19, 2024
 
-2024 spring, Complied by ==同学的姓名、院系==
+2024 spring, Complied by 田济维 物理学院
 
 
 
@@ -22,7 +22,7 @@ Updated 0940 GMT+8 Feb 19, 2024
 
 **编程环境**
 
-==（请改为同学的操作系统、编程环境等）==
+==（python pycharm）==
 
 操作系统：macOS Ventura 13.4.1 (c)
 
